@@ -1,0 +1,24 @@
+.grid1 {
+    color: blue;
+    background-color: aqua;
+    border-radius: 15px;
+    
+}
+.grid2 {
+    color: red;
+    background-color:blueviolet;
+    border-radius: 15px;
+}
+.grid3 {
+    color: blue;
+    background-color: burlywood;
+    border-radius: 15px;
+}
+.grid4 {
+    color: blue;
+    background-color:brown;
+    border-radius: 15px;
+}
+.grid-container {
+    display: grid;
+}
